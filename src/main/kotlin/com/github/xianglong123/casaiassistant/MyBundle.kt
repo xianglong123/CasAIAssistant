@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.xianglong123.casaiassistant
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
